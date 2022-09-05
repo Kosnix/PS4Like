@@ -1,0 +1,6 @@
+AddonId: PS4Like_6c065dc5-db95-49d0-bfbc-dc19b4f1952f
+Packages:
+  - Version: 1.1.0
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2022-09-05
+    PackageUrl: https://github.com/Kosnix/PS4Like/releases/download/1.1.0/PS4Like.1.1.0.pthm
