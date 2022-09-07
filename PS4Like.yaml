@@ -11,3 +11,8 @@ Packages:
     Changelog:
       - New GameDetails
       - Better quick menu
+  - Version: 1.2.1
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2022-09-07
+    PackageUrl: https://github.com/Kosnix/PS4Like/releases/download/1.2.1/PS4Like.1.2.1.pthm
+      
