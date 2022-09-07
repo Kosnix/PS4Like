@@ -4,3 +4,10 @@ Packages:
     RequiredApiVersion: 2.1.0
     ReleaseDate: 2022-09-05
     PackageUrl: https://github.com/Kosnix/PS4Like/releases/download/1.1.0/PS4Like.1.1.0.pthm
+  - Version: 1.2.0
+    RequiredApiVersion: 2.1.0
+    ReleaseDate: 2022-09-07
+    PackageUrl: https://github.com/Kosnix/PS4Like/releases/download/1.2.0/PS4Like.1.2.0.pthm
+    Changelog:
+      - New GameDetails
+      - Better quick menu
