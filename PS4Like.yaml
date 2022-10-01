@@ -15,4 +15,9 @@ Packages:
     RequiredApiVersion: 2.1.0
     ReleaseDate: 2022-09-07
     PackageUrl: https://github.com/Kosnix/PS4Like/releases/download/1.2.1/PS4Like.1.2.1.pthm
-      
+  - Version: 1.3.0
+    RequiredApiVersion: 2.3.0
+    ReleaseDate: 2022-10-01
+    PackageUrl: https://github.com/Kosnix/PS4Like/releases/download/1.3.0/PS4Like.1.3.0.pthm
+    Changelog:
+      - The theme is now animated
